@@ -6,6 +6,7 @@ function draw() {
   background(220);
 
   circle(20, 20, 20);
-  textSize(200);
+  textAlign(CENTER);
+  textSize(20);
   text("HIDDEN VOICE", width / 2, height / 2);
 }
